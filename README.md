@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uzair Ahmed</h1>
 <h3 align="center">Full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Jobwol](https://jobwol.com/)
+- 🔭 I’m currently working on [Ritid.io](http://rentid.io/)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/uzair-ahmed-7866b9186/details/projects/](https://www.linkedin.com/in/uzair-ahmed-7866b9186/details/projects/)
+- 👨‍💻 All of my projects are available at [https://mruzair.com/#portfolio](https://mruzair.com/#portfolio)
 
 - 💬 Ask me about **IONIC , Angular , PHP(Core , Laravel , codeigniter) , SQL , Codignitor ,**
 
