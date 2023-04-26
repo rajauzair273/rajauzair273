@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Ahmed</h1>
 <h3 align="center">Full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Rentid.io](http://rentid.io/)
+- 🔭 I’m currently working on [Trakkit](http://https://trakkit.us//)
 
 - 🌱 I’m currently learning **Flutter**
 
