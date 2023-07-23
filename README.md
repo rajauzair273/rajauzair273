@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajauzair273@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/uzair-ahmed-7866b9186/details/experience/](https://www.linkedin.com/in/uzair-ahmed-7866b9186/details/experience/)
+- 📄 Know about my experiences [https://mruzair.com/#portfolio](https://mruzair.com/#portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
